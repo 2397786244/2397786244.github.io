@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>大梦想家的博客</title>
+  
+  <subtitle>bigDreamer</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-04-18T15:35:55.258Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>wcz</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MyFirst_Blog</title>
+    <link href="http://example.com/2022/04/18/MyFirst-Blog/"/>
+    <id>http://example.com/2022/04/18/MyFirst-Blog/</id>
+    <published>2022-04-18T15:27:26.000Z</published>
+    <updated>2022-04-18T15:35:55.258Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>第一篇文章！hello hexo！</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;第一篇文章！hello hexo！&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
